@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails MeetUp: development" uuid="cc238d7e-bb30-409c-a40f-449185579e38">
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails MeetUp: test" uuid="ed5f0248-1e60-40b1-8d4d-429529304d6d" />
+  </component>
+</project>
